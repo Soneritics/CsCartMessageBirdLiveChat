@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addon\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2020-11-18 21:00+0200\n"
+
+msgctxt "Addons::name::soneritics_messagebirdchat"
+msgid "Soneritics MessageBird Live Chat"
+msgstr "Soneritics MessageBird Live Chat"
+
+msgctxt "Addons::description::soneritics_messagebirdchat"
+msgid "Live chat widget"
+msgstr "Live chat widget"
